@@ -1,1 +1,3 @@
 This file was added into the locally saved git repository.
+
+I am editing the new file.
